@@ -7,7 +7,7 @@ namespace Calculator.Tests
     [TestFixture]
     public class SimpleCalculatortests
     {
-        //testing stuff out
+      
         [Test]
         public void ShouldAddTwoNumbers()
         {
