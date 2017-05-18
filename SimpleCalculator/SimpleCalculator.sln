@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{1344E8FC-8864-4A30-895B-D210501367FB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator.Tests", "Calculator.Tests\SimpleCalculator.Tests.csproj", "{A0519B8D-DEAF-48E2-8E18-24AF9D96F3B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssertDemo", "AssertDemo\AssertDemo.csproj", "{0E2A919C-F99B-4ABF-AC66-19C771F05118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssertDemo.Tests", "AssertDemo.Tests\AssertDemo.Tests.csproj", "{BDE7C745-103C-4891-819A-F56A60EC47D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{A0519B8D-DEAF-48E2-8E18-24AF9D96F3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0519B8D-DEAF-48E2-8E18-24AF9D96F3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0519B8D-DEAF-48E2-8E18-24AF9D96F3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2A919C-F99B-4ABF-AC66-19C771F05118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2A919C-F99B-4ABF-AC66-19C771F05118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2A919C-F99B-4ABF-AC66-19C771F05118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2A919C-F99B-4ABF-AC66-19C771F05118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE7C745-103C-4891-819A-F56A60EC47D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE7C745-103C-4891-819A-F56A60EC47D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE7C745-103C-4891-819A-F56A60EC47D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE7C745-103C-4891-819A-F56A60EC47D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

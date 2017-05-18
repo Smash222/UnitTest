@@ -7,3 +7,12 @@ C:\Users\Nex50\Google Drive\VS Projects\UnitTest\SimpleCalculator\Calculator.Tes
 C:\Users\Nex50\Google Drive\VS Projects\UnitTest\SimpleCalculator\Calculator.Tests\obj\Debug\SimpleCalculator.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Nex50\Google Drive\VS Projects\UnitTest\SimpleCalculator\Calculator.Tests\obj\Debug\Calculator.Tests.dll
 C:\Users\Nex50\Google Drive\VS Projects\UnitTest\SimpleCalculator\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\Calculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\Calculator.Tests\bin\Debug\SimpleCalculator.dll
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\Calculator.Tests\bin\Debug\SimpleCalculator.pdb
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\Calculator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\Calculator.Tests\obj\Debug\SimpleCalculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\Calculator.Tests\obj\Debug\Calculator.Tests.pdb

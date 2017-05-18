@@ -5,3 +5,10 @@ C:\Users\Nex50\Google Drive\VS Projects\UnitTest\SimpleCalculator\SimpleCalculat
 C:\Users\Nex50\Google Drive\VS Projects\UnitTest\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
 C:\Users\Nex50\Google Drive\VS Projects\UnitTest\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
 C:\Users\Nex50\Google Drive\VS Projects\UnitTest\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.dll
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\SimpleCalculator\bin\Debug\nunit.framework.dll
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\SimpleCalculator\bin\Debug\nunit.framework.xml
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+C:\Users\duon778\Documents\Visual Studio 2017\Projects\UnitTest\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
